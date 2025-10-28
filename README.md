@@ -11,7 +11,7 @@
      -    ├── images/
      -    │   └── lu.jpg     
      -    └── js/
-     -        └── main.js     
+               └── main.js     
 
 ## 🔧 Setup / How to run locally  
 If someone else (or future you) wants to clone and run your portfolio locally:
