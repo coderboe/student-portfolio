@@ -10,7 +10,7 @@
      -    │   └── style.css  
      -    ├── images/
      -    │   └── lu.jpg     
-     -    ├── js/
+     -    └── js/
      -        └── main.js     
 
 ## 🔧 Setup / How to run locally  
