@@ -5,7 +5,7 @@
  student-portfolio/
 -    ├──README.md
 -    ├── index.html  # Main page
--    └── assets/
+-    └── assets/mainpage
      -    ├── css/
      -    │   └── style.css  
      -    ├── images/
